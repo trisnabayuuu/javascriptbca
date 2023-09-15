@@ -1,1 +1,0 @@
-        // tanda "*" untuk bagian kanan
